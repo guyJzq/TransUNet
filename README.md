@@ -1,2 +1,38 @@
-# TransUNet
-A new method for Image Segmentation
+息肉数据集类型尺寸分析
+D:\xirou\NBI\train\images
+总图片数量: 700
+按图片类型统计:
+  .png: 700张
+按图片类型和尺寸统计:
+  .png:
+    1250x1080: 373张
+    1280x1080: 319张
+    1244x1080: 7张
+    1164x1006: 1张
+
+D:\xirou\NBI\train\masks
+总图片数量: 700
+按图片类型统计:
+  .png: 700张
+按图片类型和尺寸统计:
+  .png:
+    1250x1080: 373张
+    1280x1080: 319张
+    1244x1080: 7张
+1164x1006: 1张
+
+D:\xirou\NBI\validation\images
+总图片数量: 100
+按图片类型统计:
+  .png: 100张
+按图片类型和尺寸统计:
+  .png:
+    1250x1080: 100张
+
+D:\xirou\NBI\validation\masks
+总图片数量: 100
+按图片类型统计:
+  .png: 100张
+按图片类型和尺寸统计:
+  .png:
+    1250x1080: 100张
